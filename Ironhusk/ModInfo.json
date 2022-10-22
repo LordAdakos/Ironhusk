@@ -1,0 +1,9 @@
+{
+    "Id" : "IRONHUSK",
+    "SteamWorkshop" : true,
+    "Name" : "IRONHUSK",
+    "Description" : "IRONHUSK - Grow your own steel",
+    "ModVersion" : "1.0.1",
+    "GameVersion" : "0.5.182",
+    "Dependencies" : [ "Core" ]
+}
