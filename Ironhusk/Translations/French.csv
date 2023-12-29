@@ -1,0 +1,5 @@
+Key,Translation,Version,Comment (context for translators)
+objects.devices.ironhusk,Ironhusk,,
+objects.devices.ironhusk.desc,"Ajoute une nouvelle plante au jeu Stadeus qui produit de l'acier, l'Ironhusk.",,
+obj.plants.ironhusk,Ironhusk,,
+obj.plants.ironhusk.desc,Un type particulier de plante qui produit de l'acier lorsqu'elle arrive à maturité.,,
